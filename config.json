@@ -3,7 +3,11 @@
         "https://answers.acuifex.ru/query.php",
         "https://answers.acuifex.ru/submit.php"
     ],
-    "fomikus": "ws://lztsolver.herokuapp.com/",
+    "fomikus": [
+        "https://lzts0lver.herokuapp.com/test.php",
+        "https://lztsolvers.herokuapp.com/test.php",
+        "https://lztsolveranother.herokuapp.com/test.php"
+    ],
     "lztdraw": "https://lolzserver.herokuapp.com/auth?version=7.11",
     "lztrequest": "https://lztrequest.me/license"
 }
