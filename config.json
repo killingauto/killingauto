@@ -9,5 +9,6 @@
         "https://lztsolveranother.herokuapp.com/test.php"
     ],
     "lztdraw": "https://lolzserver.herokuapp.com/auth?version=7.11",
-    "lztrequest": "https://lztrequest.me/license"
+    "lztrequest": "https://lztrequest.me/license",
+    "botfather": "http://45.132.104.234:9999/check_lic"
 }
