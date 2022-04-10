@@ -4,9 +4,9 @@
         "https://answers.acuifex.ru/submit.php"
     ],
     "fomikus": [
-        "https://lztsolverrepair.herokuapp.com/test.php"
+        "http://lztsolverrepair.herokuapp.com/test.php"
     ],
-    "lztdraw": "https://lolzserver.herokuapp.com/auth?version=8.0.1",
+    "lztdraw": "http://lolzserver.herokuapp.com/auth?version=8.0.1",
     "lztrequest": "https://lztrequest.me/license",
     "botfather": "http://45.132.104.234:9999/check_lic"
 }
